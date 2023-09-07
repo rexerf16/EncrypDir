@@ -16,7 +16,7 @@ ___
 - **Files Integrity:** EncrypDir safeguards the integrity of your encrypted files, ensuring that they cannot be tampered with. Your data remains pristine and secure.
 - **Educational and Ethical Use:** EncrypDir is intended for educational and ethical use. Users must adhere to applicable laws and regulations when utilizing this tool, ensuring responsible and legal data protection practices.
 
-# what is information gathering :
+# what is Fernet (symmetric encryption) :
 
 > Fernet guarantees that a message encrypted using it cannot be manipulated or read without the key. [Fernet](https://github.com/fernet/spec/) is an implementation of symmetric (also known as “secret key”) authenticated cryptography. Fernet also has support for implementing key rotation via [`MultiFernet`](https://cryptography.io/en/latest/fernet/#cryptography.fernet.MultiFernet "cryptography.fernet.MultiFernet")
 
